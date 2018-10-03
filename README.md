@@ -1,4 +1,4 @@
-# Advanced-Lane-Finding
+# Lane-Finding and Departure Warning
 ### Udacity Self Driving Cars Nanodegree
 
 #### Objective:
